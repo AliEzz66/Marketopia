@@ -1653,7 +1653,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: rgb(255, 167, 36);
+  background: linear-gradient(white , orange);
   padding: 0 0 70px 0;
   color: #fff;
   font-size: 14px;
@@ -1665,8 +1665,8 @@ section {
 
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
-  background: orange;
-  color: #fff;
+  background: linear-gradient(orange , white);
+  color: black;
   border-top: 4px solid orangered;
   text-align: center;
   padding: 30px 20px;
